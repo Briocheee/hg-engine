@@ -37,6 +37,7 @@ const u16 BulletproofMoveList[] =
     MOVE_ACID_SPRAY,
     MOVE_AURA_SPHERE,
     MOVE_BARRAGE,
+    MOVE_BEAK_BLAST,
     MOVE_BULLET_SEED,
     MOVE_EGG_BOMB,
     MOVE_ELECTRO_BALL,
@@ -56,6 +57,7 @@ const u16 BulletproofMoveList[] =
     MOVE_SEED_BOMB,
     MOVE_SHADOW_BALL,
     MOVE_SLUDGE_BOMB,
+    MOVE_SYRUP_BOMB,
     MOVE_WEATHER_BALL,
     MOVE_ZAP_CANNON,
 };
@@ -67,8 +69,8 @@ const u16 PowderMoveList[] = {
     MOVE_POWDER,
     MOVE_RAGE_POWDER,
     MOVE_SLEEP_POWDER,
-    MOVE_STUN_SPORE,
     MOVE_SPORE,
+    MOVE_STUN_SPORE,
 };
 
 /**
